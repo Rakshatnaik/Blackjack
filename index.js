@@ -7,7 +7,7 @@ let message = ""
 
 let player = {
     name: "Rakk",
-    chip: 200
+    chip: 250
 }
 
 let playerEl = document.getElementById("player-el")
